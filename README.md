@@ -12,6 +12,7 @@ In the master branch you can find:
  
 In the Result branch you can find:
 * The optimized code of the app with all important steps from the blog posts applied
+* It will be about 10x faster than the original code in the master branch for high-latency scenarios
 
 Important: Set your browser language to en_US to avoid additional requests to i18n.properties files. No 404 response codes should appear in network trace.
 
