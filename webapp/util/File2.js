@@ -1,0 +1,1 @@
+jQuery.sap.declare('LatencyDemo.util.File2');

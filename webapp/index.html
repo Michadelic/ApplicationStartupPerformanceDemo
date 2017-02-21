@@ -1,0 +1,27 @@
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="UTF-8">
+
+    <title>Startup Performance</title>
+
+    <script id="sap-ui-bootstrap"
+        src="../../resources/sap-ui-core.js"
+        data-sap-ui-libs="sap.m, sap.ui.table, sap.ui.commons, sap.ui.ux3"
+        data-sap-ui-theme="sap_belize"
+        data-sap-ui-compatVersion="edge"
+        data-sap-ui-preload="sync"
+        data-sap-ui-resourceroots='{"LatencyDemo": ""}'>
+    </script>
+	<link rel="css/style.css">
+    <script>
+
+	    jQuery.sap.require('LatencyDemo.util.File1');
+	    jQuery.sap.require('sap.ui.core.mvc.XMLView');
+	
+	    new sap.ui.xmlview({viewName:"LatencyDemo.view.View1"}).placeAt("content");
+
+    </script>
+</head>
+
+<body class="sapUiBody" id="content">
+</body>
