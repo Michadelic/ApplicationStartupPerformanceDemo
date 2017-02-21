@@ -18,14 +18,14 @@ Important: Set your browser language to en_US to avoid additional requests to i1
 Related Links
 -------------
 
-Multi-Version-Availability
-https://blogs.sap.com/2015/07/30/multi-version-availability-of-sapui5/
-https://sapui5.hana.ondemand.com/versionoverview.html
+*Multi-Version-Availability*
+* https://blogs.sap.com/2015/07/30/multi-version-availability-of-sapui5/
+* https://sapui5.hana.ondemand.com/versionoverview.html
 
-Performance Optimizations – Best Practices Part I
-https://blogs.sap.com/2016/10/29/sapui5-application-startup-performance-best-practices/
-Performance Optimizations - Best Practices Part II
-https://blogs.sap.com/2016/11/19/sapui5-application-startup-performance-advanced-topics/
+*Performance Optimizations – Best Practices Part I*
+* https://blogs.sap.com/2016/10/29/sapui5-application-startup-performance-best-practices/
+*Performance Optimizations - Best Practices Part II*
+* https://blogs.sap.com/2016/11/19/sapui5-application-startup-performance-advanced-topics/
 
 Contributions
 -------------
