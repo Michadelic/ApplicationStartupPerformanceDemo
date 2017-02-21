@@ -24,6 +24,7 @@ Related Links
 
 *Performance Optimizations – Best Practices Part I*
 * https://blogs.sap.com/2016/10/29/sapui5-application-startup-performance-best-practices/
+
 *Performance Optimizations - Best Practices Part II*
 * https://blogs.sap.com/2016/11/19/sapui5-application-startup-performance-advanced-topics/
 
